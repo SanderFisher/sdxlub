@@ -879,6 +879,10 @@
         box-shadow: none;
     }
 
+    .cust-fl-l-2-1 {
+        margin-bottom: 10px;
+    }
+
 }
 
 @media (max-width: 767px) {
