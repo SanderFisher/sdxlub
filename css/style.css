@@ -1421,7 +1421,7 @@ input::-ms-inner-spin-button {
     }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
     .cust-ph-b-pp-1 {
         width: 270px;
         height: 260px;
@@ -1749,7 +1749,7 @@ input::-ms-inner-spin-button {
 
 }
 
-@media (max-width: 576px) {
+@media (max-width: 575px) {
     .cust-ph-b-pp-1 {
         width: 100%;
         height: 260px;
