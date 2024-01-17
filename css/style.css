@@ -1476,10 +1476,6 @@ input::-ms-inner-spin-button {
         font-size: 12px;
     }
 
-    .cust-buy-btn-1 {
-        margin-top: 40px;
-    }
-
     .cust-li-block-pp-1 {
         margin-bottom: 20px;
     }
@@ -1700,10 +1696,10 @@ input::-ms-inner-spin-button {
     .cust-buy-btn-1 {
         margin-top: -624px;
         margin-left: 0;
-        font-size: 32px;
         width: 520px;
-        height: 100px;
         position: absolute;
+        font-size: 22px;
+        height: 50px;
     }
 
     .cust-li-block-pp-1 {
@@ -1720,11 +1716,6 @@ input::-ms-inner-spin-button {
 
     input[type="number"] {
         font-size: 15px;
-    }
-
-    .cust-buy-btn-1 {
-        font-size: 22px;
-        height: 50px;
     }
 
     .ind-fie-1-block-3 {
@@ -1833,7 +1824,7 @@ input::-ms-inner-spin-button {
     .cust-buy-btn-1 {
         margin-top: -393px;
         margin-left: 0px;
-        font-size: 32px;
+        font-size: 22px;
         width: 95.8%;
         height: 70px;
         position: absolute;
@@ -1853,10 +1844,6 @@ input::-ms-inner-spin-button {
 
     input[type="number"] {
         font-size: 15px;
-    }
-
-    .cust-buy-btn-1 {
-        font-size: 22px;
     }
 
     .ind-fie-1-block-3 {
@@ -1992,9 +1979,9 @@ input::-ms-inner-spin-button {
     .cust-buy-btn-1 {
         margin-top: -414px;
         margin-left: 0px;
-        font-size: 32px;
+        font-size: 22px;
         width: 95.8%;
-        height: 70px;
+        height: 50px;
         position: absolute;
     }
 
@@ -2012,11 +1999,6 @@ input::-ms-inner-spin-button {
 
     input[type="number"] {
         font-size: 15px;
-    }
-
-    .cust-buy-btn-1 {
-        font-size: 22px;
-        height: 50px;
     }
 
     .ind-fie-1-block-3 {
