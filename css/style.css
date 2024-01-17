@@ -1395,6 +1395,7 @@ input::-ms-inner-spin-button {
         margin-top: 47px;
         width: 109%;
         height: 81px;
+        font-size: 24px;
     }
 
     .cust-li-block-pp-1 {
@@ -1414,10 +1415,6 @@ input::-ms-inner-spin-button {
     .ind-fie-3 {
         height: 11px;
         width: 11px;
-    }
-
-    .cust-buy-btn-1 {
-        font-size: 24px;
     }
 }
 
