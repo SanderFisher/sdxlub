@@ -1235,11 +1235,25 @@ input::-webkit-inner-spin-button {
     cursor: pointer;
 }
 
+input::-moz-outer-spin-button,
+input::-moz-inner-spin-button {
+    height: 55px;
+    cursor: pointer;
+}
+
+input::-ms-outer-spin-button,
+input::-ms-inner-spin-button {
+    height: 55px;
+    cursor: pointer;
+}
+
 .ind-fie-1-input {
     z-index: 1;
 }
 
-
+.cust-ee-fpp-se-1 {
+    height: 559px;
+}
 
 .ind-fie-1-input-arrows {
     width: 60px;
@@ -1263,10 +1277,11 @@ input::-webkit-inner-spin-button {
 
 .cust-buy-btn-1 {
     margin-top: 70px;
-    width: 102.5%;
-    height: 60px;
+    margin-left: -10px;
+    width: 107%;
+    height: 80px;
     font-size: 30px;
-    background-color: #fff;
+    background-color: #d9d9d9;
     border-radius: 10px;
     border: none;
     transition: 0.5s;
@@ -1339,6 +1354,10 @@ input::-webkit-inner-spin-button {
         height: 320px;
     }
 
+    .cust-ee-fpp-se-1 {
+        height: 500px;
+    }
+
     .ind-fie-1-block-cmf2e {
         margin-left: 7px;
     }
@@ -1373,7 +1392,9 @@ input::-webkit-inner-spin-button {
     }
 
     .cust-buy-btn-1 {
-        margin-top: 50px;
+        margin-top: 47px;
+        width: 109%;
+        height: 81px;
     }
 
     .cust-li-block-pp-1 {
@@ -1396,7 +1417,6 @@ input::-webkit-inner-spin-button {
     }
 
     .cust-buy-btn-1 {
-        height: 55px;
         font-size: 24px;
     }
 }
@@ -1405,6 +1425,10 @@ input::-webkit-inner-spin-button {
     .cust-ph-b-pp-1 {
         width: 270px;
         height: 260px;
+    }
+
+    .cust-ee-fpp-se-1 {
+        height: 418px;
     }
 
     .cust-ph-s-pp-1 {
@@ -1474,8 +1498,9 @@ input::-webkit-inner-spin-button {
 
     .cust-buy-btn-1 {
         font-size: 22px;
-        height: 50px;
-        margin-top: 30px;
+        margin-top: 25px;
+        width: 110%;
+        height: 72px;
     }
 }
 
@@ -1484,6 +1509,10 @@ input::-webkit-inner-spin-button {
     .cust-ph-b-pp-1 {
         width: 100%;
         height: 260px;
+    }
+
+    .cust-ee-fpp-se-1 {
+        height: 600px;
     }
 
     .cust-md-col-pp-1 {
@@ -1549,17 +1578,11 @@ input::-webkit-inner-spin-button {
     }
 
     .ul-txt-p-pp-1 {
-        font-size: 16px;
-    }
-
-    .cust-buy-btn-1 {
-        margin-top: 20px;
-        margin-bottom: 20px;
-        width: 101.5%;
+        font-size: 19px;
     }
 
     .cust-li-block-pp-1 {
-        margin-bottom: 22px;
+        margin-bottom: 34px;
     }
 
     .cust-li-block-pp-1-h6 {
@@ -1575,8 +1598,12 @@ input::-webkit-inner-spin-button {
     }
 
     .cust-buy-btn-1 {
-        font-size: 22px;
-        height: 50px;
+        margin-top: -732px;
+        margin-left: 0;
+        font-size: 32px;
+        width: 700px;
+        height: 100px;
+        position: absolute;
     }
 
     .ind-fie-1-block-3 {
@@ -1595,7 +1622,7 @@ input::-webkit-inner-spin-button {
     }
 
     .mt-4-cust-1 {
-        margin-top: 25px;
+        margin-top: 150px;
     }
 
 
@@ -1606,6 +1633,10 @@ input::-webkit-inner-spin-button {
     .cust-ph-b-pp-1 {
         width: 100%;
         height: 260px;
+    }
+
+    .cust-ee-fpp-se-1 {
+        height: 580px;
     }
 
     .cust-md-col-pp-1 {
@@ -1663,13 +1694,16 @@ input::-webkit-inner-spin-button {
     }
 
     .ul-txt-p-pp-1 {
-        font-size: 14px;
+        font-size: 15px;
     }
 
     .cust-buy-btn-1 {
-        margin-top: 20px;
-        margin-bottom: 20px;
-        width: 101.5%;
+        margin-top: -624px;
+        margin-left: 0;
+        font-size: 32px;
+        width: 520px;
+        height: 100px;
+        position: absolute;
     }
 
     .cust-li-block-pp-1 {
@@ -1709,7 +1743,7 @@ input::-webkit-inner-spin-button {
     }
 
     .mt-4-cust-1 {
-        margin-top: 25px;
+        margin-top: 110px;
     }
 
 
@@ -1724,6 +1758,10 @@ input::-webkit-inner-spin-button {
     .cust-md-col-pp-1 {
         margin-top: 10px;
         margin-left: 0;
+    }
+
+    .cust-ee-fpp-se-1 {
+        height: 300px;
     }
 
     .cust-pr-3ppit-1 {
@@ -1793,9 +1831,12 @@ input::-webkit-inner-spin-button {
     }
 
     .cust-buy-btn-1 {
-        margin-top: 20px;
-        margin-bottom: 20px;
-        width: 101.5%;
+        margin-top: -393px;
+        margin-left: 0px;
+        font-size: 32px;
+        width: 95.8%;
+        height: 70px;
+        position: absolute;
     }
 
     .cust-li-block-pp-1 {
@@ -1816,7 +1857,6 @@ input::-webkit-inner-spin-button {
 
     .cust-buy-btn-1 {
         font-size: 22px;
-        height: 50px;
     }
 
     .ind-fie-1-block-3 {
@@ -1838,7 +1878,38 @@ input::-webkit-inner-spin-button {
         margin-top: 25px;
     }
 
+    .mt-4-cust-1-sm-1 {
+        margin-top: 100px;
+    }
 
+}
+
+@media (max-width: 555px) {
+    .cust-buy-btn-1 {
+        margin-top: -414px;
+        margin-left: 0px;
+        font-size: 32px;
+        width: 95.8%;
+        height: 70px;
+        position: absolute;
+    }
+    .cust-ee-fpp-se-1 {
+        height: 320px;
+    }
+}
+
+@media (max-width: 532px) {
+    .cust-buy-btn-1 {
+        margin-top: -434px;
+        margin-left: 0px;
+        font-size: 32px;
+        width: 95.8%;
+        height: 70px;
+        position: absolute;
+    }
+    .cust-ee-fpp-se-1 {
+        height: 330px;
+    }
 }
 
 @media (max-width: 523px) {
@@ -1919,9 +1990,12 @@ input::-webkit-inner-spin-button {
     }
 
     .cust-buy-btn-1 {
-        margin-top: 20px;
-        margin-bottom: 20px;
-        width: 101.5%;
+        margin-top: -414px;
+        margin-left: 0px;
+        font-size: 32px;
+        width: 95.8%;
+        height: 70px;
+        position: absolute;
     }
 
     .cust-li-block-pp-1 {
@@ -1960,10 +2034,34 @@ input::-webkit-inner-spin-button {
         cursor: pointer;
     }
 
-    .mt-4-cust-1 {
-        margin-top: 25px;
-    }
+}
 
+@media (max-width: 496px) {
+    .cust-buy-btn-1 {
+        margin-top: -446px;
+        margin-left: 0px;
+        font-size: 30px;
+        width: 95.8%;
+        height: 70px;
+        position: absolute;
+    }
+    .cust-ee-fpp-se-1 {
+        height: 350px;
+    }
+}
+
+@media (max-width: 478px) {
+    .cust-buy-btn-1 {
+        margin-top: -476px;
+        margin-left: 0px;
+        font-size: 30px;
+        width: 95.8%;
+        height: 70px;
+        position: absolute;
+    }
+    .cust-ee-fpp-se-1 {
+        height: 380px;
+    }
 }
 
 @media (max-width: 457px) {
@@ -1982,8 +2080,34 @@ input::-webkit-inner-spin-button {
     .ul-txt-p-pp-1 {
         font-size: 12px;
     }
+
+    .cust-buy-btn-1 {
+        margin-top: -372px;
+        margin-left: 0px;
+        font-size: 28px;
+        width: 95.8%;
+        height: 60px;
+        position: absolute;
+    }
+
+    .cust-ee-fpp-se-1 {
+        height: 280px;
+    }
 }
 
+@media (max-width: 446px) {
+    .cust-buy-btn-1 {
+        margin-top: -390px;
+        margin-left: 0px;
+        font-size: 25px;
+        width: 95.8%;
+        height: 60px;
+        position: absolute;
+    }
+    .cust-ee-fpp-se-1 {
+        height: 290px;
+    }
+}
 
 @media (max-width: 416px) {
     .ind-fie-1-h5 {
@@ -2020,6 +2144,32 @@ input::-webkit-inner-spin-button {
     .ind-fie-1-block {
         margin-top: 2px;
     }
+
+    .cust-buy-btn-1 {
+        margin-top: -410px;
+        margin-left: 0px;
+        font-size: 25px;
+        width: 95.5%;
+        height: 60px;
+        position: absolute;
+    }
+    .cust-ee-fpp-se-1 {
+        height: 310px;
+    }
+}
+
+@media (max-width: 400px) {
+    .cust-buy-btn-1 {
+        margin-top: -428px;
+        margin-left: 0px;
+        font-size: 25px;
+        width: 95%;
+        height: 60px;
+        position: absolute;
+    }
+    .cust-ee-fpp-se-1 {
+        height: 330px;
+    }
 }
 
 @media (max-width: 375px) {
@@ -2044,6 +2194,21 @@ input::-webkit-inner-spin-button {
 
     .cust-ph-s-pp-1 {
         width: 31.6%;
+    }
+}
+
+@media (max-width: 363px) {
+    .cust-buy-btn-1 {
+        margin-top: -446px;
+        margin-left: 0px;
+        font-size: 20px;
+        width: 94%;
+        height: 50px;
+        position: absolute;
+    }
+    .cust-ee-fpp-se-1 {
+        height: 380px;
+    }
 }
 
 @media (max-width: 337px) {
@@ -2057,6 +2222,18 @@ input::-webkit-inner-spin-button {
 
     .ind-fie-1-block-2 {
         margin-top: 7px !important;
+    }
+
+    .cust-buy-btn-1 {
+        margin-top: -482px;
+        font-size: 18px;
+        width: 94%;
+        height: 45px;
+        position: absolute;
+    }
+
+    .cust-ee-fpp-se-1 {
+        height: 400px;
     }
 }
 
