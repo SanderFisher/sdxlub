@@ -1392,8 +1392,7 @@ input::-ms-inner-spin-button {
     }
 
     .cust-buy-btn-1 {
-        position: relative;
-        top: -23px;
+        margin-top: 47px;
         width: 109%;
         height: 81px;
         font-size: 24px;
@@ -1495,7 +1494,6 @@ input::-ms-inner-spin-button {
         margin-top: 25px;
         width: 110%;
         height: 72px;
-        top: 0;
     }
 }
 
