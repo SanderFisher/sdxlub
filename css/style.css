@@ -795,6 +795,16 @@
     height: 100%;
 }
 
+.rw-bgimg-l-main-1 {
+    background-image: url( );
+    background-size: fill;
+    background-repeat: no-repeat;
+    background-position: center center;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
 .rw-bgimg-l-main-txt-h3 {
     font-size: 40px;
 }
@@ -2424,6 +2434,10 @@ input::-ms-inner-spin-button {
 
     .cust-img-pp-bi-sm-1 {
         width: 100%;
+    }
+
+    .rw-bgimg-l-main-1 {
+        height: 400px;
     }
 }
 
